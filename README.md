@@ -9,11 +9,11 @@
 ### API Endpoints
 The API provides the following endpoints:
 
-> - /users: CRUD operations for users
-> - /posts: CRUD operations for posts
-> - /comments: CRUD operations for comments
-> - /likes: CRUD operations for likes
-> - /auth: user authentication and authorization
+> - / users: CRUD operations for users
+> - / posts: CRUD operations for posts
+> - / comments: CRUD operations for comments
+> - / likes: CRUD operations for likes
+> - / auth: user authentication and authorization
 See the API documentation for more information on each endpoint.
 
 ### Testing
