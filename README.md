@@ -16,11 +16,18 @@ The API provides the following endpoints:
 > - / auth: user authentication and authorization
 See the API documentation for more information on each endpoint.
 
-### Testing
-- To run the tests, run npm test. The tests use Jest and Supertest, and cover all API endpoints.
+### ScreenShots of Frontend UI
+- FrontEnd is made using ReactJS 
+
+## ScreenShots
+![4st ScreenShot](/SS/1.png)
+![2st ScreenShot](/SS/2.png)
+![1st ScreenShot](/SS/3.png)
+
+
 
 ### Contributing
-- Contributions are welcome! Please see the CONTRIBUTING.md file for guidelines on how to contribute.
+- Contributions are welcome!
 
 #### License
 This project is licensed under the MIT License - see the LICENSE file for details.
